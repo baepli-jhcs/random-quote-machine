@@ -1,0 +1,30 @@
+#quote-box {
+    background-color: #EEEEEE;
+    color: hsl(0, 0%, 20%);
+    padding: 5rem 0rem;
+    min-height: 35vh;
+    box-shadow: 0 0 0.5rem hsl(240, 64%, 20%);
+}
+
+.container-fluid {
+    min-height: 100vh;
+    background-color: hsl(180, 45%, 25%);
+    display: flex;
+}
+#author {
+    padding-top: 1em;
+}
+
+#text {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+#bottom-bar {
+    padding-top: 5rem;
+}
+#quote-text {
+    padding: 2rem 2rem 1rem 2rem;
+}
+.btn {
+    margin: 1rem;
+}
